@@ -99,6 +99,7 @@ body {
   transform: translate(-50%);
   width: 9.6rem;
   height: 9.6rem;
-  border: 5px solid #ffffff;
+  outline: 5px solid #ffffff;
+  outline-offset: -1px;
   border-radius: 50%;
 }
